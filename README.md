@@ -1,7 +1,7 @@
 ## Hi there, I'm [Divyanshu](https://www.linkedin.com/in/divyanshu-bargali-974401175/) 👋
 
+- :zap: I'm interested in Deep Learning especially in NLP and Computer Vision.
 - 🌱 I’m currently learning more about Django.
-- :zap: I'm interested in Deep Learning specially in NLP and Computer Vision.
 - 👯 I’m looking to collaborate in open source projects.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 
