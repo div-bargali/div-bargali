@@ -32,6 +32,8 @@
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=div-bargali&layout=compact)](https://github.com/div-bargali)
+
 <a href="https://github.com/div-bargali">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=div-bargali&show_icons=true&theme=light&line_height=27" alt="Divyanshu's github stats"/>
 </a>
