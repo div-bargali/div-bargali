@@ -3,7 +3,6 @@
 - 🌱 I am a Web Developer.
 - :zap: I'm interested in Machine Learning especially intrigued by NLP and Computer Vision.
 - 👯 I’m looking to collaborate in open source projects.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
 
 
 ### Connect with me:
