@@ -1,94 +1,40 @@
-<div align="center">
+# Divyanshu Bargali
 
-# 👋 Hi, I'm Divyanshu Bargali
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-divyanshu--bargali-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-bargali/) [![Email](https://img.shields.io/badge/Email-divyanshubargali%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:divyanshubargali@gmail.com) [![AWS](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/divyanshu-bargali/)
 
-### Software Engineer II | Backend Engineer & DevOps Enthusiast
-
-🚀 Building scalable, high-performance backend systems for Fortune 500 companies
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-bargali/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/div-bargali)
-
-</div>
+Backend and platform engineer with 4 years of experience building distributed services, internal developer tooling, and automated code-remediation workflows at JPMorgan Chase and American Express.
 
 ---
 
-## 💼 About Me
+### Engineering Scope
 
-Backend engineer specializing in building robust, scalable systems and optimizing DevOps pipelines.
-
-- 💡 **Core Focus**: Microservices architecture, backend optimization, and cloud-native solutions
-- 🔧 **Expertise**: Java, Spring Boot, Python, Big Data, and DevOps automation
-- 🌱 **Currently Exploring**: Advanced system design patterns and cloud optimization strategies
-- 🤝 **Open To**: Collaborating on backend systems, DevOps automation, and open-source projects
-
----
-
-## 🛠️ Tech Stack
-
-### Backend & Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Big Data & Databases
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Web Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+- **Enterprise Build & Platform Tooling:** Built the JPMC Develocity plugin and OpenRewrite migration recipes across 4,800+ repositories and 687 Gradle projects, reducing per-repo onboarding time by 83–91% (from 30–60 minutes to under 5 minutes).
+- **Zero-Touch Build Security:** Integrated internal Auth/AuthZ into Maven and Gradle for Remote Test Distribution, eliminating global access key distribution and cutting CI onboarding time to zero.
+- **Open-Source AST Tooling:** Merged 3 upstream bug fixes into [OpenRewrite](https://github.com/openrewrite/rewrite) and shipped a 2025.3-compatible Develocity Maven extension to resolve deprecated APIs across build ecosystems.
+- **Distributed Data Platforms:** Led a 3-engineer team at American Express to architect a Spring Boot data quality platform (MySQL, Apache HBase) across 20+ daily feeds (80% faster configuration), alongside a self-healing Python monitoring service managing 600+ daily Hive ETL workflows at 98%+ success rates.
+- **High-Volume Data Optimization & Monitoring:** Built a Java time-series anomaly detection service using Dynamic Time Warping (25% reduction in false-positive alerts) and optimized multi-terabyte PySpark/Apache Tez pipelines on Hadoop (45% faster execution).
+- **Agentic & Deterministic Automation:** Pairing AST-level code transformations (OpenRewrite) with LLM tool-calling workflows to automate dependency migrations, build diagnostics, and repetitive engineering tasks.
 
 ---
 
-## 📊 GitHub Stats
+### Open Source & Selected Work
 
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=div-bargali&theme=github)](https://github.com/div-bargali)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=div-bargali&theme=github)](https://github.com/div-bargali)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=div-bargali&theme=github)](https://github.com/div-bargali)
-
-</div>
+- **[OpenRewrite Upstream Contributions](https://github.com/openrewrite)** — 3 merged upstream patches improving automated Java and build refactoring stability.
 
 ---
 
-## 🎯 Key Highlights
+### Technical Stack
 
-- ✅ Built end-to-end applications optimizing backend efficiency and reducing processing time
-- ✅ Developed data-driven solutions improving operational performance
-- ✅ Secured top ranks in hackathons and coding competitions
-- ✅ Specialized in microservices architecture and scalable system design
+- **Languages:** Java (17/21), Python, SQL, C++
+- **Backend & Build:** Spring Boot, Spring MVC, REST APIs, Microservices, Maven, Gradle, OpenRewrite
+- **Agentic AI & Automation:** Agentic Workflows, LLM Tool Calling, AST Code Remediation, RASA
+- **Data & Messaging:** MySQL, Apache HBase, Apache Hive, PySpark, Hadoop, Apache Tez, Kafka, Redis
+- **Cloud & Infra:** AWS (Certified Cloud Practitioner), Docker, Kubernetes, Jenkins, Spinnaker
 
 ---
 
-## 📫 Let's Connect
+### Credentials & Problem Solving
 
-Open to discussing:
-- ☕ Microservices vs. monoliths architecture debates
-- 🚀 DevOps automation and CI/CD best practices
-- 📈 Scaling systems and performance optimization
-- 🤝 Open-source collaborations
-
-<div align="center">
-
-**💼 Always open to interesting conversations and collaboration opportunities!**
-
-</div>
+- AWS Certified Cloud Practitioner
+- Solved 450+ DSA problems across LeetCode, GeeksforGeeks, and CodingNinjas; CodeChef 3-star rating (max 1774)
+- Finalist (7th out of 150 teams) at Hack The Mountains 2020 (Major League Hacking)
